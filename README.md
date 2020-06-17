@@ -11,3 +11,4 @@
 ### post ,get 공부 https://medium.com/@mystar09070907/flask%EB%A1%9C-get-post-%EC%9A%94%EC%B2%AD-%EB%B3%B4%EB%82%B4%EA%B8%B0-1-57d8f4559793
 ### 숫자를 입력받아 사칙연산 정답맞추기 https://infinitt.tistory.com/269?category=1071293
 ### pandas install 오류 해결 https://stackoverflow.com/questions/60763529/unable-to-import-pandas-pandas-libs-window-aggregations
+### render_template 에서 개행태그가 이상하게 변환대는것을 막음 https://stackoverrun.com/ko/q/12663581
