@@ -14,3 +14,4 @@
 ### render_template 에서 개행태그가 이상하게 변환대는것을 막음 https://stackoverrun.com/ko/q/12663581
 ### pandas dataframe html으로 표시 https://stackoverflow.com/questions/22180993/pandas-dataframe-display-on-a-webpage
 ### python 주기적으로 함수 실행하기 https://1byte.tistory.com/18
+### vscode 버그해결 https://www.it-swarm.dev/ko/python/visual-studio-code-%EB%82%B4%EB%B6%80%EC%97%90%EC%84%9C-python-%EC%8B%A4%ED%96%89%EC%8B%9C-%EC%9E%98%EB%AA%BB%EB%90%9C-%EA%B5%AC%EB%AC%B8-%EC%98%A4%EB%A5%98/805777607/
