@@ -12,3 +12,4 @@
 ### 숫자를 입력받아 사칙연산 정답맞추기 https://infinitt.tistory.com/269?category=1071293
 ### pandas install 오류 해결 https://stackoverflow.com/questions/60763529/unable-to-import-pandas-pandas-libs-window-aggregations
 ### render_template 에서 개행태그가 이상하게 변환대는것을 막음 https://stackoverrun.com/ko/q/12663581
+### pandas dataframe html으로 표시 https://stackoverflow.com/questions/22180993/pandas-dataframe-display-on-a-webpage
