@@ -13,3 +13,4 @@
 ### pandas install 오류 해결 https://stackoverflow.com/questions/60763529/unable-to-import-pandas-pandas-libs-window-aggregations
 ### render_template 에서 개행태그가 이상하게 변환대는것을 막음 https://stackoverrun.com/ko/q/12663581
 ### pandas dataframe html으로 표시 https://stackoverflow.com/questions/22180993/pandas-dataframe-display-on-a-webpage
+### python 주기적으로 함수 실행하기 https://1byte.tistory.com/18
