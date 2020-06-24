@@ -21,3 +21,4 @@
 ### python 공백 리스트 체크 https://hashcode.co.kr/questions/22/%EB%B9%88-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-%ED%99%95%EC%9D%B8%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EA%B0%80%EB%A5%B4%EC%B3%90%EC%A3%BC%EC%84%B8%EC%9A%94
 
 ### python 여러줄 문자열 다루기 https://ledgku.tistory.com/44
+### 크롤링 속도 개선을 위한 multi thread https://beomi.github.io/2017/07/05/HowToMakeWebCrawler-with-Multiprocess/
