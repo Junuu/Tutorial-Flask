@@ -24,3 +24,4 @@
 ### 크롤링 속도 개선을 위한 multi thread https://beomi.github.io/2017/07/05/HowToMakeWebCrawler-with-Multiprocess/
 ### <script> 입력 방지 https://www.it-swarm.dev/ko/javascript/javascript%EC%97%90%EC%84%9C-html-%EB%B0%8F-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%82%BD%EC%9E%85-%EB%B0%A9%EC%A7%80/1044047794/
 ### flask multi request https://medium.com/@dkhd/handling-multiple-requests-on-flask-60208eacc154
+### html.parser -> lxml 로 바꾼후 로딩속도 7초에서 5초로 증가 ( 속도개선)
