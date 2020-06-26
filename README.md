@@ -27,3 +27,4 @@
 ### html.parser -> lxml 로 바꾼후 로딩속도 7초에서 5초로 증가 ( 속도개선)
 
 ### AWS Cafe24 도메인 네임서버 설정 https://teddylee777.github.io/aws/%EC%95%84%EB%A7%88%EC%A1%B4AWS-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0
+ ### AWS freenom 도메인 네임서버 설정 https://medium.com/@rlatla626/route-53%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%97%B0%EA%B2%B0-f92aaeedf6ea
