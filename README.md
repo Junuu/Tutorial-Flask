@@ -31,3 +31,4 @@
 ### AWS EC2 서버 만들고 cmd로 서버에 접속해보기 https://www.youtube.com/watch?v=7-zwChaCYzA
 ### aws nginx 서버 고정ip로 접속했을때 확인 안될는 방화벽설정
 ### aws nginx uWSGI flask https://teddylee777.github.io/aws/flask-aws-nginx-%EC%84%A4%EC%A0%95%EB%B0%A9%EB%B2%95
+### flask 404 error page 만들기 https://webisfree.com/2017-09-29/python-flask%EC%97%90%EC%84%9C-custom-404-page-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95
