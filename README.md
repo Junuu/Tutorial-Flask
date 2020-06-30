@@ -30,3 +30,4 @@
  ### AWS freenom 도메인 네임서버 설정 https://medium.com/@rlatla626/route-53%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%97%B0%EA%B2%B0-f92aaeedf6ea
 ### AWS EC2 서버 만들고 cmd로 서버에 접속해보기 https://www.youtube.com/watch?v=7-zwChaCYzA
 ### aws nginx 서버 고정ip로 접속했을때 확인 안될는 방화벽설정
+### aws nginx uWSGI flask https://teddylee777.github.io/aws/flask-aws-nginx-%EC%84%A4%EC%A0%95%EB%B0%A9%EB%B2%95
