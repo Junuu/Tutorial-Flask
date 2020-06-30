@@ -30,7 +30,7 @@
 ### [AWS Cafe24 도메인 네임서버 설정](https://teddylee777.github.io/aws/%EC%95%84%EB%A7%88%EC%A1%B4AWS-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0)
 ### [AWS freenom 도메인 네임서버 설정](https://medium.com/@rlatla626/route-53%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%97%B0%EA%B2%B0-f92aaeedf6ea)
 ### [AWS EC2 서버 만들고 cmd로 서버에 접속해보기](https://www.youtube.com/watch?v=7-zwChaCYzA)
-### aws nginx 서버 고정ip로 접속했을때 확인 안될는 방화벽설정
+### aws nginx 서버 고정ip로 접속했을때 확인 안될때는 네트워크 및 보안 -> 보안 그룹 -> 인바운드 규칙 편집 -> 유형(HTTP) 소스(위치무관) -> 규칙추가
 ### [aws nginx uWSGI flask](https://teddylee777.github.io/aws/flask-aws-nginx-%EC%84%A4%EC%A0%95%EB%B0%A9%EB%B2%95)
 ### [flask 404 error page 만들기](https://webisfree.com/2017-09-29/python-flask%EC%97%90%EC%84%9C-custom-404-page-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95)
 ### [aws putty로 인스턴스 접속](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html?icmpid=docs_ec2_console)
