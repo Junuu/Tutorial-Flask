@@ -24,9 +24,9 @@
 ### [flask multi request](https://medium.com/@dkhd/handling-multiple-requests-on-flask-60208eacc154)
 ### html.parser -> lxml 로 바꾼후 로딩속도 7초에서 5초로 증가 ( 속도개선)
 
-### [AWS Cafe24 도메인 네임서버 설정](https://teddylee777.github.io/aws/%EC%95%84%EB%A7%88%EC%A1%B4AWS-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0)
+### [AWS Cafe24 도메인 네임서버 설정](https://m.blog.naver.com/PostView.nhn?blogId=pjt3591oo&logNo=221158301798&proxyReferer=https:%2F%2Fwww.google.com%2F)
 ### [AWS freenom 도메인 네임서버 설정](https://medium.com/@rlatla626/route-53%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%97%B0%EA%B2%B0-f92aaeedf6ea)
-### [flask 404 error page 만들기](https://webisfree.com/2017-09-29/python-flask%EC%97%90%EC%84%9C-custom-404-page-%EB%A
+### [flask 404 error page 만들기](https://webisfree.com/2017-09-29/python-flask%EC%97%90%EC%84%9C-custom-404-page-%EB%A)
 ### [aws Elastic Beanstalk flask](https://www.youtube.com/watch?v=b28AlfTRacc)
 1. Elastic Beanstalk 생성 ( 이름, 환경 python3.6)
 2. 코드 .zip 으로 업로드 해야하며 .py 파일과 cmd python 경로에서 pip freeze 또는 python -m pip freeze 를 하면 나오는 현재 다운로드한 모듈의 버전들을 requirements.txt 에 저장
