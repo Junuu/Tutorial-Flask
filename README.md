@@ -15,9 +15,6 @@
 ### [pandas dataframe html으로 표시](https://stackoverflow.com/questions/22180993/pandas-dataframe-display-on-a-webpage)
 ### [python 주기적으로 함수 실행하기](https://1byte.tistory.com/18)
 ### [vscode 버그해결](https://www.it-swarm.dev/ko/python/visual-studio-code-%EB%82%B4%EB%B6%80%EC%97%90%EC%84%9C-python-%EC%8B%A4%ED%96%89%EC%8B%9C-%EC%9E%98%EB%AA%BB%EB%90%9C-%EA%B5%AC%EB%AC%B8-%EC%98%A4%EB%A5%98/805777607/)
-### [flask AWS 호스팅](http://yonggari.com/set_to_python_server/)
-### https://jaehyeongan.github.io/2020/01/13/aws-flask/
-### https://ndb796.tistory.com/244
 ### [python 공백 리스트 체크](https://hashcode.co.kr/questions/22/%EB%B9%88-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-%ED%99%95%EC%9D%B8%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EA%B0%80%EB%A5%B4%EC%B3%90%EC%A3%BC%EC%84%B8%EC%9A%94)
 
 ### [python 여러줄 문자열 다루기](https://ledgku.tistory.com/44)
@@ -29,10 +26,12 @@
 
 ### [AWS Cafe24 도메인 네임서버 설정](https://teddylee777.github.io/aws/%EC%95%84%EB%A7%88%EC%A1%B4AWS-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0)
 ### [AWS freenom 도메인 네임서버 설정](https://medium.com/@rlatla626/route-53%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%97%B0%EA%B2%B0-f92aaeedf6ea)
-### [AWS EC2 서버 만들고 cmd로 서버에 접속해보기](https://www.youtube.com/watch?v=7-zwChaCYzA)
-### aws nginx 서버 고정ip로 접속했을때 확인 안될때는 네트워크 및 보안 -> 보안 그룹 -> 인바운드 규칙 편집 -> 유형(HTTP) 소스(위치무관) -> 규칙추가
-### [aws nginx uWSGI flask](https://teddylee777.github.io/aws/flask-aws-nginx-%EC%84%A4%EC%A0%95%EB%B0%A9%EB%B2%95)
-### [flask 404 error page 만들기](https://webisfree.com/2017-09-29/python-flask%EC%97%90%EC%84%9C-custom-404-page-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95)
-### [aws putty로 인스턴스 접속](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html?icmpid=docs_ec2_console)
-### [pip install uwsgi 에러](https://codechacha.com/ko/change-python-version/)
-### [ubuntu 18.04에 python3.7설치하기](https://codechacha.com/ko/install-python37-in-ubuntu1804/)
+### [flask 404 error page 만들기](https://webisfree.com/2017-09-29/python-flask%EC%97%90%EC%84%9C-custom-404-page-%EB%A
+### [aws Elastic Beanstalk flask](https://www.youtube.com/watch?v=b28AlfTRacc)
+1. Elastic Beanstalk 생성 ( 이름, 환경 python3.6)
+2. 코드 .zip 으로 업로드 해야하며 .py 파일과 cmd python 경로에서 pip freeze 또는 python -m pip freeze 를 하면 나오는 현재 다운로드한 모듈의 버전들을 requirements.txt 에 저장
+3. .py 코드에서 app = flask(__name__) application = app = flask(__name__)으로 수정
+4. .py 파일명을 application.py로 변경
+5. .py파일 , static 폴더, templates 폴더, requirements.txt를 .zip으로 압축후 업로드
+6. 호스팅 완료
+7. 도메인 네임서버 설정 and HTTPS 설정해야 함.
