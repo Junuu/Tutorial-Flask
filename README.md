@@ -35,3 +35,6 @@
 5. .py파일 , static 폴더, templates 폴더, requirements.txt를 .zip으로 압축후 업로드
 6. 호스팅 완료
 7. 도메인 네임서버 설정 and HTTPS 설정해야 함.
+
+### [aws Elastic Beanstalk Auto Scaling(]https://docs.aws.amazon.com/ko_kr/elasticbeanstalk/latest/dg/using-features.managing.as.html)
+환경 -> 구성 -> 용량(편집) -> 환경 유형 – 로드 밸런싱 수행을 선택 -> 최대 최소 인스턴스 설정 -> 적용
