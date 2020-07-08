@@ -24,7 +24,7 @@
 ### [flask multi request](https://medium.com/@dkhd/handling-multiple-requests-on-flask-60208eacc154)
 ### html.parser -> lxml 로 바꾼후 로딩속도 7초에서 5초로 증가 ( 속도개선)
 ### [AWS에 등록할 수 있는 최상위 도메인 목록](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/registrar-tld-list.html)
-### [AWS Cafe24 도메인 네임서버 설정](https://m.blog.naver.com/PostView.nhn?blogId=pjt3591oo&logNo=221158301798&proxyReferer=https:%2F%2Fwww.google.com%2F)
+### [AWS elastic beanstalk Cafe24 도메인 네임서버 설정](https://www.it-swarm.dev/ko/amazon-ec2/godaddy-%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9D%84-aws-elastic-beanstalk-%ED%99%98%EA%B2%BD%EA%B3%BC-%EC%97%B0%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9E%85%EB%8B%88%EA%B9%8C/1068284212/)
 ### [AWS freenom 도메인 네임서버 설정+HTTPS 설정](https://medium.com/@rlatla626/route-53%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%97%B0%EA%B2%B0-f92aaeedf6ea)
 ### [flask 404 error page 만들기](https://webisfree.com/2017-09-29/python-flask%EC%97%90%EC%84%9C-custom-404-page-%EB%A)
 ### [aws Elastic Beanstalk flask](https://www.youtube.com/watch?v=b28AlfTRacc)
