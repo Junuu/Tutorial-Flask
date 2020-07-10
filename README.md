@@ -38,3 +38,5 @@
 
 ### [aws Elastic Beanstalk Auto Scaling(]https://docs.aws.amazon.com/ko_kr/elasticbeanstalk/latest/dg/using-features.managing.as.html)
 환경 -> 구성 -> 용량(편집) -> 환경 유형 – 로드 밸런싱 수행을 선택 -> 최대 최소 인스턴스 설정 -> 적용
+### [Elastic Beanstalk classic load balancer http to https redirect](https://www.youtube.com/watch?v=0IVwrHx1hPI)
+https 인증서를 업로드 한 후 https가 들어가지나 사이트 입력시 http로 들어가질때 설정법
