@@ -41,3 +41,4 @@
 ### [Elastic Beanstalk classic load balancer http to https redirect](https://www.youtube.com/watch?v=0IVwrHx1hPI)
 https 인증서를 업로드 한 후 https가 들어가지나 사이트 입력시 http로 들어가질때 설정법
 ### [사이트맵 만들기 ] (https://m.post.naver.com/viewer/postView.nhn?volumeNo=23034092&memberNo=6457418&vType=VERTICAL)
+### [서버 부하 테스트] (https://support.loader.io/article/20-verifying-an-app) 영문 도움말 읽어보면 친절하게 하는방법 설명되어 있음.
