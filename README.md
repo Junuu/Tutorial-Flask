@@ -45,4 +45,5 @@ https 인증서를 업로드 한 후 https가 들어가지나 사이트 입력�
 ### [503 Service Temporarily Unavailable 에러 해결](https://medium.com/@degaze.film/aws-load-balancer-503-service-temporarily-unavailable-e1e91c0dfcdb)
 ### 문제점 : 크롤링이 메모리를 너무 많이 잡아먹어서 메모리 부족으로 서버가 다운됨 따라서 db나 .txt 파일에 크롤링 결과를 저장하여 불러오도록 함.
 ### 추가 부하 테스트 : 재무제표 기업의 분석의 경우에는 1번의 크롤링이 필수적임 따라서 한번의 크롤링을 test 페이지에 구현하고 test 페이지를 get(불러오면서) 하면서 몇명의 동시유저를 감당할 수 있는지 부하 테스트가 필요함.
-### [python 파일 읽고 쓰기](https://kongdols-room.tistory.com/47)
+### [python 파일 읽고 쓰기1](https://kongdols-room.tistory.com/47)
+### [python 파일 읽고 쓰기2](https://alphahackerhan.tistory.com/26)
