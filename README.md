@@ -48,3 +48,4 @@ https 인증서를 업로드 한 후 https가 들어가지나 사이트 입력�
 ### 테스트 결과 : 15명 동시접속 성공 평균속도 2.6초 100명 동시접속 성공 평균속도 6.8초  200 동시접속 성공 평균속도 7.5초 400명 동시접속 평균 속도 11초 600명 동시접속 성공 평균 속도 15초 800명 동시접속 에러 60%
 ### [python 파일 읽고 쓰기1](https://kongdols-room.tistory.com/47)
 ### [python 파일 읽고 쓰기2](https://alphahackerhan.tistory.com/26)
+### [python 파일 읽기 UnicodeDecodeError](https://nackwon.tistory.com/120)
