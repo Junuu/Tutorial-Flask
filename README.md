@@ -52,3 +52,4 @@ https 인증서를 업로드 한 후 https가 들어가지나 사이트 입력�
 ### [python n초마다 특정 코드 실행](https://www.it-swarm-ko.tech/ko/python/n-%ec%b4%88%eb%a7%88%eb%8b%a4-%ed%8a%b9%ec%a0%95-%ec%bd%94%eb%93%9c-%ec%8b%a4%ed%96%89/969092320/)
 ### [python 현재시간 불러오기](https://webisfree.com/2017-08-02/python%EC%97%90%EC%84%9C-%ED%98%84%EC%9E%AC%EC%8B%9C%EA%B0%84%EC%9D%84-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
 ### [python thread 2번 호출되는 문제](https://stackoverrun.com/ko/q/11997289)
+### [aws lambda 함수 생성 오류](https://stackoverflow.com/questions/49889841/aws-lambda-create-function-role-error)  그냥 콘솔오류로 기다리라는 말 밖에없음.
