@@ -52,4 +52,14 @@ https 인증서를 업로드 한 후 https가 들어가지나 사이트 입력�
 ### [python n초마다 특정 코드 실행](https://www.it-swarm-ko.tech/ko/python/n-%ec%b4%88%eb%a7%88%eb%8b%a4-%ed%8a%b9%ec%a0%95-%ec%bd%94%eb%93%9c-%ec%8b%a4%ed%96%89/969092320/)
 ### [python 현재시간 불러오기](https://webisfree.com/2017-08-02/python%EC%97%90%EC%84%9C-%ED%98%84%EC%9E%AC%EC%8B%9C%EA%B0%84%EC%9D%84-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0)
 ### [python thread 2번 호출되는 문제](https://stackoverrun.com/ko/q/11997289)
-### [aws lambda 함수 생성 오류](https://stackoverflow.com/questions/49889841/aws-lambda-create-function-role-error)  그냥 콘솔오류로 기다리라는 말 밖에없음.
+### aws lambda 함수 생성 오류 
+#### "역할 템플릿 생성 중에 오류가 발생했습니다. 두 번 이미 있는지 확인할 역할 이름을 확인한 후 다시 시도하십시오." 라는 오류가 발생하면 하단부분에 아래와 같은 글을 발견할 수 있을 것이다.
+#### IAM 콘솔에서 (crwaling-role-yy13q9ei) 역할을 확인하십시오.
+#### 1. () 괄호 안에있는 링크를 눌러 이동하여 준다.
+#### 2. 정책이름을 누룬 후 정책편집을 눌러준다.
+#### 3. 시각적 편집기에서  경고가 보일 것이다.
+#### 4. cloudwatch logs 를 눌러 리소스부분에서 모든 리소스를 선택해준다.
+#### 5. 정책검토를 누룬다.
+#### 6. 변경된 내용 저장
+#### 7. Lambda로 돌아가 함수생성 시 함수가 생성된다.
+#### 오류가 발생하는 이유와 해결되는 이유는 모르겠음..
