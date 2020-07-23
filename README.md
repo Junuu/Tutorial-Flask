@@ -63,3 +63,5 @@ https 인증서를 업로드 한 후 https가 들어가지나 사이트 입력�
 #### 6. 변경된 내용 저장
 #### 7. Lambda로 돌아가 함수생성 시 함수가 생성된다.
 #### 오류가 발생하는 이유와 해결되는 이유는 모르겠음..
+
+###[linux cron이란?](https://www.cyberciti.biz/faq/define-cron-crond-and-cron-jobs/)
