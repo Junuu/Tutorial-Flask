@@ -64,4 +64,5 @@ https 인증서를 업로드 한 후 https가 들어가지나 사이트 입력�
 #### 7. Lambda로 돌아가 함수생성 시 함수가 생성된다.
 #### 오류가 발생하는 이유와 해결되는 이유는 모르겠음..
 
-###[linux cron이란?](https://www.cyberciti.biz/faq/define-cron-crond-and-cron-jobs/)
+### [linux cron이란?](https://www.cyberciti.biz/faq/define-cron-crond-and-cron-jobs/)
+### cmd 파일수정 : notepad filename 파일읽기: type filename [파일생성](https://m.blog.naver.com/PostView.nhn?blogId=jed00&logNo=140188420401&proxyReferer=https:%2F%2Fwww.google.com%2F)
