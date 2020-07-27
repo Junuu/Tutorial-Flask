@@ -64,6 +64,8 @@ https 인증서를 업로드 한 후 https가 들어가지나 사이트 입력�
 #### 7. Lambda로 돌아가 함수생성 시 함수가 생성된다.
 #### 오류가 발생하는 이유와 해결되는 이유는 모르겠음..
 
+### aws Labmda의 경우 함수의 memory * 사용시간으로 이용료가 계산되는데 현재 사용하는 크롤링은 memory가 가변적이고 1GB정도로 클 수 있어서 비적합 하다고 판단하여 instance에서 cron 작업을 하기로 결정
 ### [linux cron이란?](https://www.cyberciti.biz/faq/define-cron-crond-and-cron-jobs/)
 ### cmd 파일수정 : notepad filename 파일읽기: type filename [파일생성](https://m.blog.naver.com/PostView.nhn?blogId=jed00&logNo=140188420401&proxyReferer=https:%2F%2Fwww.google.com%2F)
 ### [Elastic Beanstalk 인스턴스 접속](https://stackoverflow.com/questions/4742478/ssh-to-elastic-beanstalk-instance)
+### [yarm 파일에는 tab키 쓰면 안됨](https://github.com/moraes/config/issues/1)
