@@ -69,3 +69,5 @@ https 인증서를 업로드 한 후 https가 들어가지나 사이트 입력�
 ### cmd 파일수정 : notepad filename 파일읽기: type filename [파일생성](https://m.blog.naver.com/PostView.nhn?blogId=jed00&logNo=140188420401&proxyReferer=https:%2F%2Fwww.google.com%2F)
 ### [Elastic Beanstalk 인스턴스 접속](https://stackoverflow.com/questions/4742478/ssh-to-elastic-beanstalk-instance)
 ### [yarm 파일에는 tab키 쓰면 안됨](https://github.com/moraes/config/issues/1)
+### [Elastic Beanstalk 인스턴스 접속 permission error](https://superuser.com/questions/1296024/windows-ssh-permissions-for-private-key-are-too-open)
+#### 1. .pem파일 -> 속성 -> 보안 -> 고급 -> 상속 사용 해제 및 System , Adminsterators 제외한 나머지 보안주체 제거  -> 
