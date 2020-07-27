@@ -66,3 +66,4 @@ https 인증서를 업로드 한 후 https가 들어가지나 사이트 입력�
 
 ### [linux cron이란?](https://www.cyberciti.biz/faq/define-cron-crond-and-cron-jobs/)
 ### cmd 파일수정 : notepad filename 파일읽기: type filename [파일생성](https://m.blog.naver.com/PostView.nhn?blogId=jed00&logNo=140188420401&proxyReferer=https:%2F%2Fwww.google.com%2F)
+### [Elastic Beanstalk 인스턴스 접속](https://stackoverflow.com/questions/4742478/ssh-to-elastic-beanstalk-instance)
