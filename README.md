@@ -71,3 +71,4 @@ https 인증서를 업로드 한 후 https가 들어가지나 사이트 입력�
 ### [yarm 파일에는 tab키 쓰면 안됨](https://github.com/moraes/config/issues/1)
 ### [Elastic Beanstalk 인스턴스 접속 permission error](https://superuser.com/questions/1296024/windows-ssh-permissions-for-private-key-are-too-open)
 #### 1. .pem파일 -> 속성 -> 보안 -> 고급 -> 상속 사용 해제 및 System , Adminsterators 제외한 나머지 보안주체 제거  -> 
+### [python 숫자 0 패딩](http://www.kwangsiklee.com/2018/11/python%EC%97%90%EC%84%9C-001-010%EA%B3%BC-%EA%B0%99%EC%9D%B4-zero-padding%ED%95%B4%EC%84%9C-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0/)
