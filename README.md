@@ -30,7 +30,7 @@
 #### [python 숫자 0 패딩](http://www.kwangsiklee.com/2018/11/python%EC%97%90%EC%84%9C-001-010%EA%B3%BC-%EA%B0%99%EC%9D%B4-zero-padding%ED%95%B4%EC%84%9C-%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0/)
 #### [flask 404 error page 만들기](https://webisfree.com/2017-09-29/python-flask%EC%97%90%EC%84%9C-custom-404-page-%EB%A)
 
-#### [사이트맵 만들기 ] (https://m.post.naver.com/viewer/postView.nhn?volumeNo=23034092&memberNo=6457418&vType=VERTICAL)
+#### [사이트맵 만들기 ](https://m.post.naver.com/viewer/postView.nhn?volumeNo=23034092&memberNo=6457418&vType=VERTICAL)
 
 #### 문제점 : 크롤링이 메모리를 너무 많이 잡아먹어서 메모리 부족으로 서버가 다운됨 따라서 db나 .txt 파일에 크롤링 결과를 저장하여 불러오도록 함.
 #### 추가 부하 테스트 : 재무제표 기업의 분석의 경우에는 1번의 크롤링이 필수적임 따라서 한번의 크롤링을 test 페이지에 구현하고 test 페이지를 get(불러오면서) 하면서 몇명의 동시유저를 감당할 수 있는지 부하 테스트가 필요함.
